@@ -1,0 +1,27 @@
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\home\Dropbox\Adjunct\cop 2010\c-projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+C:\Users\jerrad\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+E:\Documents\Visual Studio 2015\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
